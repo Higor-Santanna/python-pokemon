@@ -9,7 +9,7 @@ def pegar_habilidades(poke):
     return nome, forca
 
 #Nomes dos pokemons
-nome_pokemon_1 = input("Digite o nome do pirmeiro pokemon: ").lower().strip()
+nome_pokemon_1 = input("Digite o nome do primeiro pokemon: ").lower().strip()
 nome_pokemon_2 = input("Digite o nome do segundo pokemon: ").lower().strip()
 
 #Dados do pokemon 1
